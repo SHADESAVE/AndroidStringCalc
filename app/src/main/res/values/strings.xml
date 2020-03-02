@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AndroidCalc</string>
+    <string name="app_name">AndroidStringCalculator</string>
+    <string name="editText_start">Введите строку-выражение</string>
+    <string name="getResult">Посчитать</string>
 </resources>
